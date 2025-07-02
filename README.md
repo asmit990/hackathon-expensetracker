@@ -1,2 +1,2 @@
 # hackathon-expensetracker
-I'am this in 8 hours in the hackathon
+I made this in 8 hours in the hackathon
