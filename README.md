@@ -103,18 +103,6 @@ The **MonthlyBarChart** component groups transactions by month and visualizes to
 
 ---
 
-## Git Commands
-
-```bash
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/asmit990/assignment.git
-git push -u origin main
-```
-
----
 
 ## To Do (Next Stages)
 
