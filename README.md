@@ -75,13 +75,6 @@ cd server
 npm install
 ```
 
-**Create `.env` file:**
-
-```env
-MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/finance-app
-PORT=5000
-```
-
 **Run Backend:**
 
 ```bash
